@@ -1,0 +1,8 @@
+public class Calculator {
+
+    public static void main(String[] args) {
+      int a=10,b=15;
+      System.out.println("Summation="+(a+b) +"\n" +"Subtraction="+(a-b) + "\n"+"Multiplication=" +(a*b)+"\n"+"Division="+(a/b));
+    }
+    
+}
